@@ -3,6 +3,8 @@ Convert::Base32::Crockford
 
 Encode/Decode Strings using Crockford Base32 Scheme
 
+<badge travis coveralls ingydotnet/convert-base32-crockford-pm>
+
 = Synopsis
 
   use Digest::SHA 'sha1';

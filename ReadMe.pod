@@ -10,6 +10,10 @@ See http://github.com/ingydotnet/swim-pm#readme
 
 Convert::Base32::Crockford - Encode/Decode Strings using Crockford Base32 Scheme
 
+=for html
+<a href="https://travis-ci.org/ingydotnet/convert-base32-crockford-pm"><img src="https://travis-ci.org/ingydotnet/convert-base32-crockford-pm.png" alt="convert-base32-crockford-pm"></a>
+<a href="https://coveralls.io/r/ingydotnet/convert-base32-crockford-pm?branch=master"><img src="https://coveralls.io/repos/ingydotnet/convert-base32-crockford-pm/badge.png" alt="convert-base32-crockford-pm"></a>
+
 =head1 SYNOPSIS
 
     use Digest::SHA 'sha1';
