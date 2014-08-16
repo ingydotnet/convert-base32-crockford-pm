@@ -1,6 +1,6 @@
 use strict; use warnings;
 package Convert::Base32::Crockford;
-our $VERSION = '0.14';
+our $VERSION = '0.15';
 
 use Convert::Base32 ();
 
